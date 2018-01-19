@@ -20,7 +20,7 @@ hr.light {
 }
 
 a {
-  color: $primary;
+  color: $white;
   @include transition-all;
   &:hover {
     color: darken($primary, .1);
@@ -38,6 +38,14 @@ h6 {
 
 .bg-primary {
   background-color: $primary !important;
+}
+
+.corp{
+  color: $primary;
+}
+
+.norm{
+  color: $white;
 }
 
 .bg-dark {
