@@ -89,3 +89,16 @@ img::-moz-selection {
 body {
   -webkit-tap-highlight-color: $gray-900;
 }
+
+img.partner{
+  width: 150px;
+}
+
+#conference{
+  background-color: $gray-400;
+}
+
+.part{
+  font-size: 90px;
+  color: $primary;
+}

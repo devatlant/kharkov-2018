@@ -77,6 +77,16 @@ img::-moz-selection {
 body {
   -webkit-tap-highlight-color: #212529; }
 
+img.partner {
+  width: 150px; }
+
+#conference {
+  background-color: #ced4da; }
+
+.part {
+  font-size: 90px;
+  color: #F05F40; }
+
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
   background-color: #fff;
